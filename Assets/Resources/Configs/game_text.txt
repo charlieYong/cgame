@@ -1,0 +1,25 @@
+CopyRight	游戏著作权人：深圳市众人在线网络科技有限公司||运营发行公司：乐卓网络科技（上海）股份有限公司||批准文号：文网游备字〔2016〕Ｍ-RPG 4182 号||著作权登记号：2015SR265650||网络游戏出版号：ISBN 978-7-89988-811-7
+EnterName	[FFD200]舰长，[FFFFFF]请告诉我[-]你的名字！
+PlayerNameMaxLength	角色名不可超过{0}个字
+PlayerNameMinLength	角色名至少{0}个字
+AuthFail	授权失败，请重新登录
+NoPart	没有可用服务器
+ConfirmUpdate	发现有{0}内容需要更新，是否更新？
+NoNotice	暂无公告
+UnOpen	系统暂未开放！
+NetworkNotGood	您当前网络状态不佳
+NetworkError	网络异常，请重新登陆游戏
+UpdatingVersion	正在下载更新数据（[FF0000]{0}版本号[-]）
+UpdateProcessTips	当前更新共{0}，已更新{1}，进度{2}
+LoadingConfigTips	正在加载配置{0:F2}%（过程不耗流量）
+DownloadNoticeTimeout	拉取登录公告超时
+PilotCharacterIntro	力量：增加xxx|敏捷：增加xxxx|智力：增加12345
+EnlistNeedMilitaryRank	舰长达{0}军衔可招募
+ConfirmBuyResource	{0}不足，是否购买{0}？
+ResourceNotEnough	{0}不足！
+Gold	金币
+Diamond	钻石
+Energy	体力
+ConfirmRecruitPilot	招募驾驶员{0}吗？
+ConfirmCost	确定花费
+SystemName_Pilot	驾驶员
